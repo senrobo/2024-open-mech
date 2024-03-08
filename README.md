@@ -1,31 +1,31 @@
 # open-mech
 
 ## Covers and Mounts
-- 2x FrontLeftMount
-- 2x FrontRightMount
-- 2x BackLeftMount
-- 2x BackRightMount
-- 2x Layer12Cover
-- 2x Layer23Cover
+- 2x _FrontLeftMount_
+- 2x _FrontRightMount_
+- 2x _BackLeftMount_
+- 2x _BackRightMount_
+- 2x _Layer12Cover_
+- 2x _Layer23Cover_
 
 ## Dribbler
-- 2x DribblerLeftPlate
-- 2x DribblerGearboxPlate
-- 2x DribblerGearboxCover
-- 2x DribblerBasePlate
-- 2x DribblerShroud
+- 2x _DribblerLeftPlate_
+- 2x _DribblerGearboxPlate_
+- 2x _DribblerGearboxCover_
+- 2x _DribblerBasePlate_
+- 2x _DribblerShroud_
 
 ## Wheels
-- 8x WheelBottom
+- 8x _WheelBottom_
 
 ## LiDARs
-- 4x LidarHolder
+- 4x _LidarHolder_
 
 ## Solenoid
-- 2x SolenoidCoffin
+- 2x _SolenoidCoffin_
 
 ## Battery
-- 2x BatteryHolder
+- 2x _BatteryHolder_
 
 ## Layers
-- 2x LayerMirror
+- 2x _LayerMirror_
