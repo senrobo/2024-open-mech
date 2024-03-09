@@ -29,3 +29,8 @@
 
 ## Layers
 - 2x _LayerMirror_
+
+## Carrier and Aligner
+- 2x _CarrierContainer_
+- 2x _CarrierBarrier_
+- 2x _FieldAligner_
