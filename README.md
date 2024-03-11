@@ -33,11 +33,11 @@ open-mech
 
 ## Print Instructions
 
-Layer Height: 0.2mm
-Walls: 4
-Top & Bottom Layers: 4
-Infill Density: 20%
-Infill Type: Gyroid
+Layer Height: 0.2mm  
+Walls: 4  
+Top & Bottom Layers: 4  
+Infill Density: 20%  
+Infill Type: Gyroid  
 
 ### Covers and Mounts
 - 2x _FrontLeftMount_
